@@ -1,6 +1,7 @@
 # Dynamic input
 
 text = str(input("Enter text here:"))
+text.lower()
 
 '''
 Static input used for specific task:
