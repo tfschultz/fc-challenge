@@ -1,4 +1,4 @@
-# wordsalad.py
+# wordsalad_decrypt.py
 
 1. Takes an arbitrarily long string of letters and underscores as input.
 
